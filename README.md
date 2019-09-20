@@ -1,4 +1,4 @@
-# AWS-Deploy-Infrastructure-as-Code-IAC-
+# AWS - Deploy Infrastructure as Code
 Udacity - Project 02 - Deploy Infrastructure as Code (IAC)
 
 Files:
